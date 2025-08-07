@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="a" x1="-2565.9" x2="-2565.9" y1="495.8" y2="487" gradientTransform="matrix(25 0 0 -25 64359 12526)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#327ebd"/>
+      <stop offset="1" stop-color="#1565a7"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-2562.9" x2="-2562.9" y1="492.7" y2="483.9" gradientTransform="matrix(25 0 0 -25 64359 12526)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffda4b"/>
+      <stop offset="1" stop-color="#f9c600"/>
+    </linearGradient>
+  </defs>
+  <path fill="#c9c9c9" d="M88 407v-46c0-4 0-5-5-6-33-3-58-25-66-57-9-39 20-80 61-85 10-2 10-2 10-12v-85c0-18 12-30 30-30h91c4 0 5 0 5-4a72 72 0 0 1 143-8v1c2 11 2 11 12 11h85c18 0 30 12 30 30v90c0 4 0 6-5 6a72 72 0 0 0-67 68c-2 36 23 68 59 75a25 25 0 0 0 7 0c6 0 6 3 6 7v89c0 19-12 30-30 30H118c-18 0-30-11-30-30v-44Z"/>
+  <path fill="url(#a)" fill-rule="evenodd" d="M218 130c-23 0-42 19-42 41v29h73v8H143c-23 0-42 18-42 41v61c0 23 19 41 42 41h25v-34c0-23 19-41 42-41h78c20 0 36-16 36-35v-70c0-22-19-41-42-41Zm-10 51a14 14 0 1 0-14-14 14 14 0 0 0 14 14Z"/>
+  <path fill="url(#b)" fill-rule="evenodd" d="M282 429c23 0 42-19 42-41v-29h-73v-8h106c23 0 42-18 42-41v-61c0-23-19-41-42-41h-25v34c0 23-19 41-42 41h-78c-20 0-36 16-36 35v70c0 22 19 41 42 41Zm10-51a14 14 0 1 0 14 14 14 14 0 0 0-14-14Z"/>
+</svg>
